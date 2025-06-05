@@ -1,1 +1,2 @@
 # Research-Assistant-Extention
+The smart research assistant is designed to process user queries, retrieve relevant information, and present concise summaries, thereby streamlining the research process. By leveraging Spring AI, the application can understand natural language inputs and provide intelligent responses, making it a valuable tool for students, professionals, and researchers seeking quick and accurate information.
